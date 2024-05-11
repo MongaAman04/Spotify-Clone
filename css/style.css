@@ -303,8 +303,7 @@ body{
         gap: 23px;
         align-items: center;
     }
-}
-.copyright{
-    width: 77vw;
-    height: 20vh;
+    .play{
+        display: none;
+    }
 }
